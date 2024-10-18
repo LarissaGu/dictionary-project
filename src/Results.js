@@ -10,7 +10,7 @@ export default function Results(props) {
         <p>{props.results.phonetic}</p>
         {props.results.meanings.map(function (meaning, indexresults) {
           return (
-            <div key="indexresults">
+            <div key={indexresults}>
               <Meaning meaning={meaning} />
             </div>
           );
