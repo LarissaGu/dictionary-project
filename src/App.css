@@ -1,8 +1,8 @@
-.App {
-  margin: 50px auto;
-  max-width: 600px;
+body {
+  background: #f2f9f1;
 }
 
-.App h1 {
-  padding-bottom: 30px;
+.App {
+  margin: 0px auto;
+  max-width: 800px;
 }
