@@ -7,7 +7,7 @@ export default function App() {
       <header className="App-header">
         <h1>Dictionary</h1>
 
-        <Dictionary />
+        <Dictionary defaultKeyword="serendipity" />
       </header>
     </div>
   );
