@@ -7,6 +7,17 @@ export default function App() {
       <header className="App-header">
         <Dictionary defaultKeyword="butterfly" />
       </header>
+      <footer>
+        This project was coded by Larissa Gueth. It is{" "}
+        <a
+          href="https://github.com/LarissaGu/dictionary-project"
+          target="_blank"
+          rel="noreferrer"
+        >
+          open-sourced on GitHub
+        </a>
+        .
+      </footer>
     </div>
   );
 }

@@ -6,3 +6,9 @@ body {
   margin: 0px auto;
   max-width: 800px;
 }
+
+footer {
+  padding-bottom: 20px;
+  font-size: 14px;
+  text-align: right;
+}
